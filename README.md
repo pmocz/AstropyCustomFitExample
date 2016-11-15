@@ -1,9 +1,7 @@
-# Astropy CustomFit Example
+# Astropy Custom Fit Example
 
 Philip Mocz (2016) 
-
 Harvard University
-
 Harvard Library Astropy Tutorial
 
 
